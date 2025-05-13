@@ -1,6 +1,6 @@
 # proton-ge-update
 
-Run proton-ge-update.bash script to automatically download the latest version of Proton GE. May work on Steam Deck, probably needs adjustments to at least the guide below.
+Run proton-ge-update.bash script to automatically download the latest version of Proton GE [https://github.com/GloriousEggroll/proton-ge-custom/](https://github.com/GloriousEggroll/proton-ge-custom/) . May work on Steam Deck, probably needs adjustments to at least the guide below.
 
 Restart Steam to have it update the list of Protons that are available (since this Proton is externally added by you).
 
